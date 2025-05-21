@@ -8,4 +8,6 @@
 
 "DOMAIN" : FULL STACK WEB DEVELOPMENT
 
-"DURATION" : 4 WEEKS
+"DURATION" : 4 WEEKS 
+
+ # OUTPUT : ![Image](https://github.com/user-attachments/assets/7617774c-017c-46c5-b57d-a4e3eb5261c7)
